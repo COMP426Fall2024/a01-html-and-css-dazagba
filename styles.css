@@ -118,3 +118,22 @@ h3 {
     font-size: 24px;
     color: #555555;
 }
+
+table {
+    width: 50%;
+}
+
+table {
+    border:1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #333;
+    padding: 7px;
+    text-align: left;
+}
+
+#children {
+    font-size: 20px;
+}
